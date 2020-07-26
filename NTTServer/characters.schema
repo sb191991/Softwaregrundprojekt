@@ -1,0 +1,75 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "uniqueItems": true,
+    "title": "CharacterDescription[]",
+    "description": "Das Array an Character-Descriptions",
+    "items": {
+      "$id": "#/items",
+      "type": "object",
+      "title": "Eine CharacterDescription",
+      "description": "Beschreibt einen Charakter",
+      "default": {},
+      "required": [
+        "name",
+        "features"
+      ],
+      "properties": {
+        "name": {
+          "$id": "#/items/properties/name",
+          "type": "string",
+          "title": "CharacterName",
+          "description": "Name des Charakters",
+          "minLength": 3
+        },
+        "description": {
+          "$id": "#/items/properties/description",
+          "type": "string",
+          "title": "CharacterDescription",
+          "description": "Die Beschreibung des Charakters"
+        },
+        "gender": {
+          "$id": "#/items/properties/gender",
+          "type": "string",
+          "title": "CharacterGender",
+          "description": "Das Geschlecht eines Charakters",
+          "enum": [
+            "MALE",
+            "FEMALE",
+            "DIVERSE"
+          ]
+        },
+        "features": {
+          "$id": "#/items/properties/features",
+          "type": "array",
+          "title": "CharacterFeatures",
+          "description": "Fähigkeiten/Eigenschaften des Charakters",
+          "items": {
+            "$id": "#/items/properties/features/items",
+            "type": "string",
+            "title": "PropertyEnum",
+            "description": "Die verschiedenen Eigenschaften",
+            "enum": [
+              "NIMBLENESS",
+              "SLUGGISHNESS",
+              "PONDEROUSNESS",
+              "SPRYNESS",
+              "AGILITY",
+              "LUCKY_DEVIL",
+              "JINX",
+              "CLAMMY_CLOTHES",
+              "CONSTANT_CLAMMY_CLOTHES",
+              "ROBUST_STOMACH",
+              "TOUGHNESS",
+              "BABYSITTER",
+              "HONEY_TRAP",
+              "BANG_AND_BURN",
+              "FLAPS_AND_SEALS",
+              "TRADECRAFT",
+              "OBSERVATION"
+            ]
+          }
+        }
+      }
+    }
+  }

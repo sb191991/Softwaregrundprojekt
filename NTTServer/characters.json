@@ -1,0 +1,289 @@
+[
+  {
+    "name": "James Bond",
+    "description": "Bester Geheimagent aller Zeiten mit 00-Status.",
+    "gender": "MALE",
+    "features": [
+      "SPRYNESS",
+      "TOUGHNESS",
+      "ROBUST_STOMACH",
+      "LUCKY_DEVIL",
+      "TRADECRAFT"
+    ]
+  },
+  {
+    "name": "Teresa di Vicenzo a.k.a. Tracy Bond",
+    "description": "Hat kein glückliches Händchen im Spiel und bringt sich selbst ständig in Schwierigkeiten. Wenn jemand anders sie braucht, ist sie aber immer zur Stelle.",
+    "gender": "FEMALE",
+    "features": ["NIMBLENESS", "BABYSITTER", "JINX", "HONEY_TRAP"]
+  },
+  {
+    "name": "Sir Miles “M” Messervy",
+    "gender": "MALE",
+    "description": "Ein Gentleman der alten Schule mit einem durchdringenden Verstand und scharfer Beobachtungsgabe.",
+    "features": ["SLUGGISHNESS", "ROBUST_STOMACH", "OBSERVATION", "TRADECRAFT"]
+  },
+  {
+    "name": "Olivia “M” Mansfield",
+    "gender": "FEMALE",
+    "description": "Expertin fur Statistik und improvisierte Feldeinsätze.",
+    "features": [
+      "ROBUST_STOMACH",
+      "LUCKY_DEVIL",
+      "FLAPS_AND_SEALS",
+      "OBSERVATION",
+      "TRADECRAFT"
+    ]
+  },
+  {
+    "name": "Gareth “M” Mallory",
+    "gender": "MALE",
+    "description": "Ein Bürokrat, der mehr draufhat, als man ihm ansieht.",
+    "features": ["AGILITY", "TOUGHNESS", "OBSERVATION", "TRADECRAFT"]
+  },
+  {
+    "name": "Eve Moneypenny",
+    "gender": "FEMALE",
+    "description": "Hat eigentlich einen Schreibtischjob, aber natürliches Talent für Zerstörung.",
+    "features": ["NIMBLENESS", "BANG_AND_BURN", "JINX"]
+  },
+  {
+    "name": "Q",
+    "gender": "MALE",
+    "description": "Technik-Genie und Bastler. Fühlt sich außerhalb seines Labors leider nirgendwo besonders wohl.",
+    "features": ["LUCKY_DEVIL", "OBSERVATION", "CONSTANT_CLAMMY_CLOTHES"]
+  },
+  {
+    "name": "Felix Leiter",
+    "gender": "MALE",
+    "description": "Erfahrener Agent, der weiß, wie das Geschäft läuft.",
+    "features": ["ROBUST_STOMACH", "BABYSITTER", "TRADECRAFT"]
+  },
+  {
+    "name": "René Mathis",
+    "gender": "MALE",
+    "description": "Jemand, der Dinge organisiert bekommt.",
+    "features": ["PONDEROUSNESS", "ROBUST_STOMACH", "TRADECRAFT", "OBSERVATION"]
+  },
+  {
+    "name": "Strawberry Fields",
+    "gender": "FEMALE",
+    "description": "Merkwurdigerweise möchte sie mit ihrem Nachnamen angesprochen werden.",
+    "features": ["FLAPS_AND_SEALS"]
+  },
+  {
+    "name": "Tiger Tanaka",
+    "gender": "MALE",
+    "description": "Ein cleverer Agent mit Vorliebe fur selbstgebastelte Gadgets und Badekultur.",
+    "features": ["SPRYNESS", "LUCKY_DEVIL", "BABYSITTER"]
+  },
+  {
+    "name": "Kissy Suzuki",
+    "gender": "FEMALE",
+    "description": "Spezialistin fur Undercover-Operationen. Egal, wie heiß es hergeht, sie bleibt immer cool.",
+    "features": ["NIMBLENESS", "TOUGHNESS", "TRADECRAFT"]
+  },
+  {
+    "name": "Quarrel",
+    "gender": "MALE",
+    "description": "Ein hilfreicher, wenn auch leicht abergläubischer, Bursche. Hält einiges aus.",
+    "features": ["TOUGHNESS", "LUCKY_DEVIL", "BABYSITTER"]
+  },
+  {
+    "name": "Sylvia Trench",
+    "gender": "FEMALE",
+    "description": "Verliert bei jeder Art von Spiel, macht das aber durch Charme wett, und lässt nichts anbrennen.",
+    "features": ["JINX", "FLAPS_AND_SEALS", "HONEY_TRAP"]
+  },
+  {
+    "name": "Honey Ryder",
+    "gender": "FEMALE",
+    "description": "Sammelt gerne Muscheln.",
+    "features": ["SPRYNESS", "HONEY_TRAP"]
+  },
+  {
+    "name": "Tatiana Romanova",
+    "gender": "FEMALE",
+    "description": "Klaut alles, was nicht niet- und nagelfest ist.",
+    "features": ["FLAPS_AND_SEALS", "HONEY_TRAP"]
+  },
+  {
+    "name": "Pussy Galore",
+    "gender": "FEMALE",
+    "description": "Hat die Gesetze der Aerodynamik verinnerlicht, schlägt sich aber auch am Boden ganz gut.",
+    "features": ["AGILITY", "TRADECRAFT", "HONEY_TRAP"]
+  },
+  {
+    "name": "Solitaire",
+    "gender": "FEMALE",
+    "description": "Kann hellsehen, mehr oder weniger.",
+    "features": ["LUCKY_DEVIL", "OBSERVATION"]
+  },
+  {
+    "name": "Anya Amasova",
+    "gender": "FEMALE",
+    "description": "Eine Agentin, die nur die schwierigsten Aufträge bekommt.",
+    "features": ["NIMBLENESS", "TRADECRAFT", "FLAPS_AND_SEALS"]
+  },
+  {
+    "name": "Dr. Holly Goodhead",
+    "gender": "FEMALE",
+    "description": "Geheimagentin, Ingenieurin und nebenberufliche Astronautin.",
+    "features": ["AGILITY", "LUCKY_DEVIL", "TRADECRAFT"]
+  },
+  {
+    "name": "Natalya Simonova",
+    "gender": "FEMALE",
+    "description": "Wenn sie eine Tastatur in die Finger bekommt, ist nichts vor ihren Hacking-Fähigkeiten sicher. Zieht aber Probleme an wie ein Magnet.",
+    "features": ["SPRYNESS", "FLAPS_AND_SEALS", "JINX"]
+  },
+  {
+    "name": "Vesper Lynd",
+    "gender": "FEMALE",
+    "description": "Eine Buchhalterin, die aber selten Bücher hält, weil sie Online-Banking bevorzugt.",
+    "features": ["LUCKY_DEVIL", "OBSERVATION", "HONEY_TRAP"]
+  },
+  {
+    "name": "Dr. Madeleine Swann",
+    "gender": "FEMALE",
+    "description": "Eine Psychologin, die auch mit komplizierteren Patienten zurecht kommt.",
+    "features": ["TOUGHNESS", "OBSERVATION"]
+  },
+  {
+    "name": "Tiffany Case",
+    "gender": "FEMALE",
+    "description": "Professionelles Schlitzohr. Steht nur auf einer Seite: ihrer eigenen.",
+    "features": ["JINX", "FLAPS_AND_SEALS", "HONEY_TRAP"]
+  },
+  {
+    "name": "Sévérine",
+    "gender": "FEMALE",
+    "description": "Hat einen Namen, fur den man Unicode braucht.",
+    "features": ["JINX"]
+  },
+  {
+    "name": "Wai Lin",
+    "gender": "FEMALE",
+    "description": "Verbindet gerne berufliche Aufgaben mit ihrem Hang zum Extremsport.",
+    "features": ["SPRYNESS", "BANG_AND_BURN", "TRADECRAFT"]
+  },
+  {
+    "name": "Professor Dent",
+    "gender": "MALE",
+    "description": "Ein Geologe, der sich mit zwielichtigen Machenschaften sein Gehalt aufbessert.",
+    "features": ["JINX", "CONSTANT_CLAMMY_CLOTHES"]
+  },
+  {
+    "name": "Donald “Red” Grant",
+    "gender": "MALE",
+    "description": "Der klassische Mann furs Grobe. So ungehobelt, dass er Rotwein zum Fisch trinkt.",
+    "features": ["SLUGGISHNESS", "SPRYNESS", "ROBUST_STOMACH", "BANG_AND_BURN"]
+  },
+  {
+    "name": "Tov Kronsteen",
+    "gender": "MALE",
+    "description": "Schachmeister und Logistiker. Kann nicht besonders gut mit Leuten umgehen.",
+    "features": ["LUCKY_DEVIL", "CONSTANT_CLAMMY_CLOTHES"]
+  },
+  {
+    "name": "Rosa Klebb",
+    "gender": "FEMALE",
+    "description": "Hat einen fiesen Charakter, aber gute Beobachtungsgabe.",
+    "features": ["SLUGGISHNESS", "OBSERVATION"]
+  },
+  {
+    "name": "Fiona Volpe",
+    "gender": "FEMALE",
+    "description": "Wenn man von ihr zum Tanz aufgefordert wird, könnte es der letzte Walzer sein.",
+    "features": ["NIMBLENESS", "ROBUST_STOMACH", "TRADECRAFT"]
+  },
+  {
+    "name": "Oddjob",
+    "gender": "MALE",
+    "description": "Hat eine Ausbildung zum Elektriker abgebrochen um sich auf Kampfkunst zu spezialisieren. Schwingt keine großen Reden sondern scharfe Klingen.",
+    "features": ["SLUGGISHNESS", "TOUGHNESS", "BANG_AND_BURN"]
+  },
+  {
+    "name": "Fräulein Irma Bunt",
+    "gender": "FEMALE",
+    "description": "Ihr Charme ist eher von der etwas herberen Sorte.",
+    "features": ["SLUGGISHNESS", "SPRYNESS", "OBSERVATION"]
+  },
+  {
+    "name": "Jaws",
+    "gender": "MALE",
+    "description": "Nimmt seine Aufträge bitterernst, ist privat aber ein prima Kerl mit einem strahlenden Lächeln",
+    "features": ["SLUGGISHNESS", "TOUGHNESS", "JINX"]
+  },
+  {
+    "name": "Mr. Hinx",
+    "gender": "MALE",
+    "description": "Guckt böse und macht böse Sachen.",
+    "features": ["AGILITY", "TOUGHNESS", "BANG_AND_BURN"]
+  },
+  {
+    "name": "Dr. Julius No",
+    "gender": "MALE",
+    "description": "Hochintelligent aber auch sehr von sich selbst überzeugt. Hat einen ehrlichen, kräftigen Händedruck (aber die Eigenschaft “Behändigkeit” wäre fehl am Platz).",
+    "features": ["PONDEROUSNESS", "ROBUST_STOMACH", "LUCKY_DEVIL"]
+  },
+  {
+    "name": "Auric Goldfinger",
+    "gender": "MALE",
+    "description": "Mag alles was glänzt oder Pfefferminze enthält.",
+    "features": ["SLUGGISHNESS", "ROBUST_STOMACH", "TRADECRAFT"]
+  },
+  {
+    "name": "Emilio Largo",
+    "gender": "MALE",
+    "description": "Der klassische schlechte Verlierer. Sollte sich lieber aus Casinos fernhalten.",
+    "features": ["JINX", "CONSTANT_CLAMMY_CLOTHES"]
+  },
+  {
+    "name": "Francisco Scaramanga",
+    "gender": "MALE",
+    "description": "Hat scharfe Äuglein, eine sichere Hand und ein Vampirlächeln",
+    "features": ["AGILITY", "LUCKY_DEVIL", "FLAPS_AND_SEALS", "BANG_AND_BURN"]
+  },
+  {
+    "name": "Miranda Frost",
+    "gender": "FEMALE",
+    "description": "Etwas unterkuhlt aber schlagfertig.",
+    "features": ["NIMBLENESS", "AGILITY", "OBSERVATION"]
+  },
+  {
+    "name": "Elektra King",
+    "gender": "FEMALE",
+    "description": "Spielt alle gegeneinander aus, sich selbst dabei aber oft um Kopf und Kragen.",
+    "features": ["TRADECRAFT", "HONEY_TRAP"]
+  },
+  {
+    "name": "Le Chiffre",
+    "gender": "MALE",
+    "description": "Jongliert mit Zahlen wie normale Agenten mit Wurfmessern. Leider klappen seine Weltherrschaftspläne nicht immer so, wie er das gern hätte",
+    "features": ["JINX", "CONSTANT_CLAMMY_CLOTHES", "ROBUST_STOMACH"]
+  },
+  {
+    "name": "Mr. White",
+    "gender": "MALE",
+    "description": "Ein alter Hase, dem niemand mehr etwas vormachen kann.",
+    "features": ["TOUGHNESS", "ROBUST_STOMACH", "TRADECRAFT"]
+  },
+  {
+    "name": "Tiago Rodriguez a.k.a. Silva",
+    "gender": "MALE",
+    "description": "Ist eher einer von der nachtragenden Sorte.",
+    "features": [
+      "TOUGHNESS",
+      "ROBUST_STOMACH",
+      "LUCKY_DEVIL",
+      "FLAPS_AND_SEALS"
+    ]
+  },
+  {
+    "name": "Nick Nack",
+    "gender": "MALE",
+    "description": "Eher klein, aber eine ganz große Nummer.",
+    "features": ["NIMBLENESS", "SPRYNESS", "TRADECRAFT"]
+  }
+]

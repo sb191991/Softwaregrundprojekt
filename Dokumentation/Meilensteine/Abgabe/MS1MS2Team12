@@ -1,0 +1,25 @@
+MS1 - Team12:
+Domänenmodell:
+- Attributslose Domänen nochmal überarbeiten, Domänen ohne Attribute sind meist überflüssig, aber eure Domänen sind an sich gut gewählt.
+
+Fachwissen: Sieht gut aus.
+
+Funktionale Anforderungen: Gut gruppiert. :)
+
+Gesamtbewertung: 0
+
+MS2 - Team12:
+Anwendungsfälle:
+  - Sehr schöne Erklärungen.
+
+Sequenzdiagramme:
+  - Beschreibung was welches Diagramm anzeigen soll fehlt.
+  - Diagramm welches den Spielablauf anzeigt fehlt in Loop1 die Aktionen von Spieler 2.
+
+Zustandsdiagramme:
+  - Beschreibung/Beschriftung der Diagramme fehlt.
+  - Zustände wie "ausgewählt" oder "begonnen" könnten etwas treffendere Bezeichnungen haben.
+
+Ansonsten war MS 2 gut.
+
+Bewertung: +
